@@ -87,7 +87,7 @@ An AI-powered clinical trial matching application that takes a basic diagnosis t
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/kanugurajesh/Student-LMS.git
+    git clone https://github.com/lraghuram14/Student-LMS.git
     ```
 2. **Build the Docker Image**:
     ```bash
@@ -101,7 +101,7 @@ An AI-powered clinical trial matching application that takes a basic diagnosis t
 
 ## Screenshots
 - **Splash Screen**
-  ![Splash Screen](link_to_image)
+  ![Splash Screen](https://private-user-images.githubusercontent.com/120458029/294323679-bf3c4afc-7515-4725-9796-8cf737ba4a86.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQzMzk3MjgsIm5iZiI6MTcyNDMzOTQyOCwicGF0aCI6Ii8xMjA0NTgwMjkvMjk0MzIzNjc5LWJmM2M0YWZjLTc1MTUtNDcyNS05Nzk2LThjZjczN2JhNGE4Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMlQxNTEwMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZjU4YmEzYzY4ZTg3ZGQ5NmRiMzJmNWVlODljOWI5YjI5ZGZkMDE4ODFhMWRiMDkxYjNiMTdmNmJlZWY2OGUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Edjn0jVIboGXNt2hsaLNsCUki_WJF0CYDpVituGZ1wY)
 
 - **Authentication Page**
   ![Authentication Page](link_to_image)
