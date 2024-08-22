@@ -1,6 +1,6 @@
 # Mindfulcare_hacknosis
 
-# AI-Powered Clinical Trial Matching and Mental Health Support Platform
+# MindfulCare: Empowering Healthcare Workers with Personalized Wellness
 
 ## Project Overview
 An AI-powered clinical trial matching application that takes a basic diagnosis test and offers a personalized medical path to improve mental health. The platform is equipped with a virtual therapist, chat functionality, and various features to promote mental well-being.
