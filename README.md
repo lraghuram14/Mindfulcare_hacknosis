@@ -109,46 +109,59 @@ An AI-powered clinical trial matching application that takes a basic diagnosis t
 
 
 - **Home Page**
-  ![Home Page](link_to_image)
+  ![image](https://github.com/user-attachments/assets/9b9d4666-6f43-4989-9804-94b805ad145d)
+
 
 - **Imagine Yourself to Improve Your Mental Condition**
-  ![Imagination Enhancement](link_to_image)
+  ![image](https://github.com/user-attachments/assets/0887b915-c266-4989-98d5-f9d2caa58a0d)
+
 
 - **AI Chatbot Counselor**
-  ![Chat Counselor](link_to_image)
+  ![image](https://github.com/user-attachments/assets/a85cff71-1c08-4479-a845-2ed4a8fff4a2)
+
 
 - **Mental Health Blog**
-  ![Mental Health Blog](link_to_image)
+  ![image](https://github.com/user-attachments/assets/60cc1321-a0ba-4707-8ab8-180f33b03529)
+
 
 - **User Management**
-  ![User Management](link_to_image)
+  ![image](https://github.com/user-attachments/assets/48864de3-7c75-4084-b09c-5b8f261f007c)
+
 
 - **Contact Form**
-  ![Contact Form](link_to_image)
+  ![image](https://github.com/user-attachments/assets/480177d2-f198-4620-85cb-6fb36c0e55a6)
+
 
 - **Mental Health Choose**
-  ![Mental Health Choose](link_to_image)
+  ![image](https://github.com/user-attachments/assets/6ff0669e-80fb-4eb9-b727-0c933416d492)
+
 
 - **Virtual Therapist**
-  ![Virtual Therapist](link_to_image)
+  ![image](https://github.com/user-attachments/assets/e195c415-e830-464b-96e4-fff7e052276b)
+
 
 - **Image-Based Disease Prediction**
-  ![Image-Based Prediction](link_to_image)
+  ![image](https://github.com/user-attachments/assets/ac23aee4-a5a0-49a3-b316-c9c7a19069c9)
+
 
 - **Notification System**
-  ![Notification System](link_to_image)
+  ![image](https://github.com/user-attachments/assets/6b67bd33-b3d3-4be6-a681-de8bb3eb6b72)
+
 
 - **Panda's Feedback**
-  ![Panda Feedback](link_to_image)
+  ![image](https://github.com/user-attachments/assets/8450c690-5c81-49cd-8525-105bb44bb272)
+
 
 - **Reward System**
-  ![Reward System](link_to_image)
+  ![image](https://github.com/user-attachments/assets/37c0d853-c026-4994-bfab-a20f209e3579)
+
 
 - **Medical History Upload**
-  ![Medical History Upload](link_to_image)
+  ![image](https://github.com/user-attachments/assets/1ee4f366-89ae-4fb1-b8ea-ec1284d74624)
+
 
 ## Demo
-- [Watch Demo](link_to_demo_video)
+
 
 ## Contribution Guidelines
 We welcome contributions to enhance and improve the AI-powered mental health platform. If you have ideas or improvements, feel free to submit a pull request following our contribution guidelines.
